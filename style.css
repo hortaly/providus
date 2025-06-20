@@ -1,0 +1,135 @@
+#house{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    top: 0;
+    left: 0;
+}
+
+#kitchen{
+    width: 30%;
+    height: 75%;
+    position: absolute;
+    background-color: orange;
+    bottom: 0;
+    left: 10%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#logo{
+    height: 50px;
+    position: absolute;
+    right: 10%;
+    top: 10%;
+}
+
+#providus{
+    position: absolute;
+    font-size: 30px;
+    top: 25%;
+    left: 5%;
+    color: navy;
+}
+
+#welcome{
+    position: absolute;
+    font-weight: 100;
+    top: 20%;
+    left: 5%;
+    font-size: 28px;
+    color: navy;
+}
+
+#unlock{
+    position: absolute;
+    font-weight: lighter;
+    top: 35%;
+    left: 5%;
+    font-size: 18px;
+    color: navy;
+}
+
+#yourfinance{
+    position: absolute;
+    top: 38%;
+    left: 5%;
+    font-size:18px;
+    font-weight: 100;
+    color: navy;
+}
+
+#username{
+    position: absolute;
+    left: 5%;
+    top: 55%;
+    font-weight: 100;
+    font-size:14px ;
+    color: navy;
+}
+
+#password{
+    position: absolute;
+    left: 5%;
+    top: 65%;
+    font-weight: 100;
+    font-size: 14px;
+    color: navy;
+}
+
+#input{
+    top: 65;
+}
+
+#login{
+    position: absolute;
+    left: 45%;
+    bottom: 10%;
+    color: white;
+}
+
+body{
+    background-color: yellowgreen;
+}
+
+#movepara{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+.Welcome{
+    font-size: 36px;
+}
+.providus{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+body{
+    font-family: calibri;
+}
+
+#moveform{
+    position: absolute;
+    left: 10%;
+    top: 65%;
+}
+
+.btn{
+    width: 100%;
+    padding: 10px;
+    border-radius: 0;
+    color: white;
+    background-color: black;
+    border: 0;
+
+}
+.shift{
+    padding: 10px;
+    border-radius: 20px;
+    border: 0;
+    
+    
+}
